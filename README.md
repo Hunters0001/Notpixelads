@@ -7,12 +7,15 @@ Clone the repository:
 git clone https://github.com/Hunters0001/Notpixelads.git
 
 Install required PHP packages:
+
 pkg install php php-curl
 
 Navigate to the folder:
+
 cd /Notpixelads
 
 Add user accounts:
+
 php adduser.php
 
 Follow the on-screen instructions.
